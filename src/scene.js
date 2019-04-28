@@ -25,7 +25,6 @@ export default class Scene extends PIXI.Container {
         this.cards();
         break;
       case 'fire':
-        ;
         this.fire();
         break;
       case 'sprites':
